@@ -1,0 +1,7 @@
+{
+  "name": "TimmGPT",
+  "description": "TimmGPT - A high-performance, multimodal chat interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
